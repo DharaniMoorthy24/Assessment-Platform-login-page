@@ -1,0 +1,34 @@
+.course-available {
+  padding: 20px; /* Padding around the entire content area */
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.course-available-title {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  margin-bottom: 20px; /* Margin below the title */
+  font-weight: bold;
+  color: #333;
+}
+
+.course-available-title i {
+  margin-right: 10px;
+}
+
+.course-grid {
+  display: flex;
+  justify-content: space-between; /* Space between items */
+  flex-wrap: wrap;
+  gap: 20px; /* Reduced spacing between the course cards */
+}
+
+.course-card {
+  background-color: #fff;
+  padding: 20px; /* Padding inside the card */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Shadow for better visual */
+  text-align: center;
+  width: 180px; /* Adjusted width */
+}

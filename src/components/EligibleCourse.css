@@ -1,0 +1,65 @@
+.eligible-course-page {
+    padding: 20px;
+  }
+  
+  .search-bar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .course-table-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-table-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .course-table-container p {
+    margin-bottom: 20px;
+  }
+  
+  .course-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .course-table th,
+  .course-table td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .course-table th {
+    background-color: #ddd;
+  }
+  
+  .course-table td {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .view-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .view-button:hover {
+    background-color: #45a049;
+  }
+  

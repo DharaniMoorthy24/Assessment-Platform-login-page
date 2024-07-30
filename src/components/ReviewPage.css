@@ -1,0 +1,48 @@
+.review-page {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light grey background for the whole page */
+}
+
+.review-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff; /* White background for the content area */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+}
+
+.review-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.review-table th, .review-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.review-table th {
+    background-color: #f4f4f4; /* Light grey background for table headers */
+    font-weight: bold;
+}
+
+.review-table td {
+    background-color: #ffffff; /* White background for table cells */
+}
+
+.review-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.review-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
