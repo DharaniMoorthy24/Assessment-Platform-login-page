@@ -1,12 +1,14 @@
-# Getting Started with Create React App
+![Screenshot 2024-07-31 230216](https://github.com/user-attachments/assets/a27200a5-3f8d-4911-9e92-fd7e75b1acd6)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Screenshot 2024-07-31 230115](https://github.com/user-attachments/assets/1d21cf8b-c415-428d-b91d-002f6f214dbb)
 
-###Dashboard Page
+## Dashboard Page
 
 ![Screenshot 2024-07-31 230128](https://github.com/user-attachments/assets/97c775e4-c092-4023-917c-068d982a66c0)
+
+## My Course page
 
 
 ## Available Scripts
