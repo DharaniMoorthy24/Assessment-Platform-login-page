@@ -1,4 +1,4 @@
-![Screenshot 2024-07-31 230216](https://github.com/user-attachments/assets/a27200a5-3f8d-4911-9e92-fd7e75b1acd6)# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,6 +11,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## My Course page
 
 ![Screenshot 2024-07-31 230216](https://github.com/user-attachments/assets/9bffbb30-c5ea-49b6-b7fa-4418016bd019)
+
+## Eligible Course Page
+
+![Screenshot 2024-07-31 230159](https://github.com/user-attachments/assets/a784ad98-44fe-4c29-ad59-2cdc2e5d0883)
+
+## Review Page
+
+![Screenshot 2024-07-31 230148](https://github.com/user-attachments/assets/a03db1ca-0283-4c7f-94ba-6df10a1d542d)
+
 
 
 
