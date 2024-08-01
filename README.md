@@ -10,6 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## My Course page
 
+![Screenshot 2024-07-31 230216](https://github.com/user-attachments/assets/9bffbb30-c5ea-49b6-b7fa-4418016bd019)
+
+
 
 ## Available Scripts
 
